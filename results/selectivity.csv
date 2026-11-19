@@ -1,0 +1,6 @@
+drug,n_SGLT2,pIC50_SGLT2,n_SGLT1,pIC50_SGLT1,IC50_SGLT2_nM,IC50_SGLT1_nM,selectivity_fold_pooled,n_documents,selectivity_fold_paired,fold_min,fold_max,outcome_trials
+ertugliflozin,2,8.84,2,6.06,1.45,877,604,2,1.2e+03,163,2.23e+03,VERTIS CV
+empagliflozin,1,8.51,2,5.29,3.1,5.18e+03,1.67e+03,1,1.04e+03,1.04e+03,1.04e+03,"EMPA-REG OUTCOME, EMPEROR-Reduced, EMPEROR-Preserved, EMPA-KIDNEY"
+dapagliflozin,16,8.72,10,5.99,1.9,1.03e+03,543,8,638,39.4,2.25e+03,"DECLARE-TIMI 58, DAPA-HF, DAPA-CKD, DELIVER"
+canagliflozin,5,8.36,4,6.21,4.4,613,139,4,138,112,284,"CANVAS, CREDENCE"
+sotagliflozin,2,8.78,2,7.45,1.64,35.4,21.5,2,21.6,20.1,23.1,"SCORED, SOLOIST-WHF"
